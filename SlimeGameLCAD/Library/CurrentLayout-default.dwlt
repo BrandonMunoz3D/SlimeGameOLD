@@ -373,7 +373,7 @@ MonoBehaviour:
   m_MinSize: {x: 276, y: 312}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 111
+  controlID: 140
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1389,7 +1389,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0.64588416, y: -0.67016643, z: -6.8152375}
     speed: 2
-    m_Value: {x: 0.6528766, y: -0.6771589, z: -6.3400517}
+    m_Value: {x: 0.64588416, y: -0.67016643, z: -6.8152375}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1442,7 +1442,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 8.419214
     speed: 2
-    m_Value: 7.1349277
+    m_Value: 8.419214
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1600,7 +1600,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300004a370000e231000020450000e2600000b03300005c420000ecb80000924e0000544500006c320000023200004e300000782e00002a5e000052330000663300005e330000723300005aa5040062ad04000e700000a433000072370000f2370000043e0000c2400000f63c00006e3d00002a3a00009c3d00004c4300003e3a0000343e0000d43a0000ba4a0000d04c0000de4d0000da560000d84e000000000000904e00002c4f00002a4f0000b0920000e64f0000f0ec0000a61101007a500000bc3a03002a5a0000e65000007c4e0000784e0000c2510000c24e00005c350200
     m_RenameOverlay:
       m_UserAcceptedRename: 0
